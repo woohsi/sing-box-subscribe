@@ -89,7 +89,7 @@
       "type": "mixed",
       "listen_port": 7890,
       "sniff": true,
-      "set_system_proxy": true
+      "set_system_proxy": false
     }
   ],
   "outbounds": [
