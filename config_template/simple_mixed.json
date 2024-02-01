@@ -86,8 +86,9 @@
       "tag": "🌏 !cn",
       "type": "selector",
       "outbounds": [
+        "proxy",
+        "direct",
         "{all}",
-        "direct"
       ]
     },
     {
